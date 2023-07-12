@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>SampleApp.Domain</RootNamespace>
+    <AssemblyName>SampleApp.Domain</AssemblyName>
+    <LangVersion>latest</LangVersion>
+  </PropertyGroup>
+
+</Project>
